@@ -4,19 +4,19 @@
 
 [![Python3](https://img.shields.io/pypi/pyversions/aletheia.svg)](https://pypi.org/project/aletheia/)
 
-Fight fake news with cryptography & human nature
+Καταπολεμήστε τα fake news με κρυπτογραφία & την ανθρώπινη φύση
 
-Just as journalism has taken a critical financial hit, fake news is multiplying
-across social networks faster than facts. The public doesn't know which stories
-are real any more because anyone with a laptop can forge audio & video in
-record time. We need to empower the institutions we trust with the ability to
-tie their reputations to the journalism they produce.
+Ακριβώς όπως η δημοσιογραφία έλαβε ένα κρίσιμο οικονομικό χτύπημα, τα fake news πολλαπλασιάζονται
+σε όλα τα μέσα κοινωνικής δικτύωσης πιο γρήγορα από γεγονότα. Το κοινό δεν ξέρει ποιές ιστορίες 
+είναι αληθινές πλέον επειδή ο καθένας με ένα laptop μπορεί να πλαστογραφήσει ήχο & βίντεο σε
+χρόνο ρεκόρ. Πρέπει να ενδυναμώσουμε τα θεσμικά όργανα που εμπιστευόμαστε με την ικανότητα να
+συνδέουν τη φήμη τους με τη δημοσιογραφία που παράγουν.
 
-Aletheia uses cryptographic signatures + DNS to leverage existing networks of
-human trust in individual journalists & institutions to help link those people
-to the work they produce with a view to change our expectations of what
-constitutes journalism: if it's not verified, it's just some stranger on the
-internet.
+Το project Aletheia χρησιμοποιεί υπογραφές κρυπτογράφησης + DNS για να δώσουμε πλεονέκτημα και
+εμπιστοσύνη σε ήδη υπάρχοντα δίκτυα ανθρώπων, σε μεμονωμενους δημοσιογράφους και ιδρύματα, για να
+βοηθήσουν στην σύνδεση/δικτύωση αυτών των ανθρώπων, στο έργο που παράγουν, με σκοπό να αλλάξουν τις
+προσδοκίες μας για το τι αποτελεί δημοσιογραφια: Αν δεν έχει επαληθευτεί, είναι πολύ απλά κάποιος ξένος
+στο internet.
 
 To this end, Aletheia combines cryptographic signatures with human nature's
 concept of social trust.  It helps you sign all the files you produce so that
