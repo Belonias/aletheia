@@ -31,7 +31,6 @@ covering how surprisingly easy it is to create believable audio & video fakes.
 
 ## Visuals
 
-
 ### Signing
 
 This is a typical file
